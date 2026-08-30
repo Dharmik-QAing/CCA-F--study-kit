@@ -30,6 +30,10 @@ Requires Python 3. Then refresh `study-book.html`.
 
 Keep `EXAM_GUIDE.md` (official guide) **outside git**, next to this folder or in the original clone. It is listed in `.gitignore` on purpose.
 
+## Sources
+
+The knowledge base is built from the [official exam guide](https://anthropic-partners.skilljar.com/claude-certified-architect-foundations-certification) as a key source, plus the community guide credited below.
+
 ## Attribution
 
 `exam-preparation-guide.md` is from the community guide [daronyondem/claude-architect-exam-guide](https://github.com/daronyondem/claude-architect-exam-guide), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The study book is a personal rearrangement of that teaching material plus original study tools.
